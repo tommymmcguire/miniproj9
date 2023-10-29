@@ -1,5 +1,5 @@
 # IDS Mini Project 9
 
-This is practical example of using a cloud hosted Jupyter notebook. This project specifically uses Google Colab.
+This is a practical example of using a cloud hosted Jupyter notebook. In this case we are using Google Colab.
 
-This project extracts data from a csv file and performs simple manipulation tasks, such as cleaning the data and creating a graph to visualize the data.
+In the project we extract data from a csv file and perform simple manipulation tasks, such as cleaning the data and creating a graph to visualize the data.
